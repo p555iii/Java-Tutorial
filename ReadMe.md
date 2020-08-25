@@ -83,7 +83,6 @@
 * [深入理解内部类](docs/java/basic/18、深入理解内部类.md)
 * [javac和javap](docs/java/basic/20、javac和javap.md)
 * [Java8新特性终极指南](docs/java/basic/21、Java8新特性终极指南.md)
-* [Java类和包](docs/java/basic/25、Java类和包.md)
 * [序列化和反序列化](docs/java/basic/22、序列化和反序列化.md)
 * [继承、封装、多态的实现原理](docs/java/basic/23、继承、封装、多态的实现原理.md)
 
